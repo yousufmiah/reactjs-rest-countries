@@ -1,0 +1,12 @@
+.menu a{
+    text-decoration: none;
+    margin: 10px;
+    background-color: yellowgreen;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.menu a:hover{
+    color:white
+}
